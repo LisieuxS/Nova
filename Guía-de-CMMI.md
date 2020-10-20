@@ -25,7 +25,7 @@
 <td>3</td> <td>Gestión de procesos</td> <td>OPF</td> <td>Enfoque de Procesos de la Organización</td> <td>Planificar, implementar y desplegar las mejoras de procesos</td>
 </tr>	
 <tr>
-<td>5</td> <td>Gestión de procesos</td> <td>OPM</td> <td>Gestión del Rendimiento de la Organización</td> <td>Analizar el rendimiento del negocio de la organización para identificar mejoras</td>
+<td>5</td> <td>Gestión de procesos</td> <td>OPM</td> <td>Gestión del Rendimiento de la Organización</td> <td>Analizar el rendimiento del negocio de la organización para identificar mejoras </td>
 </tr>				
 <tr>
 <td>4</td> <td>Gestión de procesos</td> <td>OPP</td> <td>Rendimiento de Procesos de la Organización</td> <td>Estandarizar las bases de rendimiento de la organización</td>
